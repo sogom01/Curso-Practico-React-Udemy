@@ -5,12 +5,9 @@
 // (Ver en este ejemplo)
 
 const persona = {
-    nombreCompleto: 'Juan Sebastián Osorio Gómez',
-    nacionalidad: 'Colombiano',
+    nombre: 'Juan Sebastián Osorio Gómez',
     edad: 26,
-    rango: 'Capitan',
-    // Los años de servicio se ponen de primeros al desplegar el objeto porque js los imprime ordenándolos alfabéticamente
-    anosDeServicio: '2 años',
+    clave: 'sogom',
     dirección: {
         ciudad: 'Manizales',
         lat: 35.3242345,
